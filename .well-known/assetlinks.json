@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.sagitariokiron.twa",
-        "sha256_cert_fingerprints": ["86:E0:EC:5C:82:EC:3B:8A:94:54:8B:53:B9:E9:CE:21:F6:30:48:0E:68:FA:E4:A2:7B:8F:3F:AA:66:9F:32:D0"]
+        "sha256_cert_fingerprints": ["CD:0C:85:FA:7F:43:79:AF:3F:86:9D:9C:9E:C6:14:3A:35:1C:FC:6F:8A:48:EC:F2:FA:28:3F:ED:41:C0:FD:5C"]
       }
     }]
